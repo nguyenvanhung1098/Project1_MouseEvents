@@ -1,0 +1,10 @@
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\bin\Debug\project1.exe.config
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\bin\Debug\project1.exe
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\bin\Debug\project1.pdb
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.exe
+C:\Users\hung.nv161972\Desktop\Project1\project1\project1\obj\Debug\project1.pdb
