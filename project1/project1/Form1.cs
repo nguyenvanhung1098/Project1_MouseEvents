@@ -15,7 +15,15 @@ namespace project1
     {
         public Form1()
         {
+
             InitializeComponent();
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
         }
 
 
@@ -659,6 +667,98 @@ namespace project1
         }
 
         private void pictureBox1_Mouse_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        // hiển thị propertyGrid
+        private void FormToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+            propertyGrid1.Visible = true;
+        }
+        private void pictureBoxMouseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+            propertyGrid2.Visible = true;
+        }
+
+        private void pictureBoxMouseLeftToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+            propertyGrid3.Visible = true;
+        }
+
+        private void pictureBoxMouseMidToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+            propertyGrid4.Visible = true;
+        }
+        private void pictureBoxMouseRightToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+            propertyGrid5.Visible = true;
+
+        }
+        private void label1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid7.Visible = false;
+            propertyGrid6.Visible = true;
+        }
+
+        private void label2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = true;
+        }
+
+        private void thoátToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

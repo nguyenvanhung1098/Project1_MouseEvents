@@ -63,6 +63,16 @@ namespace project1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Mouse {
+            get {
+                object obj = ResourceManager.GetObject("Mouse", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Mouse_master {
             get {
                 object obj = ResourceManager.GetObject("Mouse_master", resourceCulture);
