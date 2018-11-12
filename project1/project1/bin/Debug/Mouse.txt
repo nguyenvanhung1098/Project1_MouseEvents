@@ -1,225 +1,224 @@
-14:48:50  28/10/2018:click chuot trai: X = 467 ; Y = 166
-14:48:50  28/10/2018:click chuot trai: X = 405 ; Y = 155
-14:48:51  28/10/2018:click chuot phai: X = 396 ; Y = 173
-14:48:51  28/10/2018:click chuot trai: X = 387 ; Y = 174
-14:48:51  28/10/2018:click chuot phai: X = 452 ; Y = 118
-14:48:52  28/10/2018:click chuot trai: X = 395 ; Y = 118
-14:48:52  28/10/2018:click chuot phai: X = 350 ; Y = 125
-14:48:52  28/10/2018:click chuot phai: X = 361 ; Y = 153
-14:48:53  28/10/2018:click chuot phai: X = 411 ; Y = 129
-14:48:53  28/10/2018:click chuot phai: X = 378 ; Y = 284
-14:48:53  28/10/2018:click chuot phai: X = 319 ; Y = 126
-14:48:54  28/10/2018:click chuot phai: X = 315 ; Y = 124
-14:48:54  28/10/2018:click chuot trai: X = 331 ; Y = 117
-14:48:54  28/10/2018:click chuot phai: X = 340 ; Y = 106
-14:48:54  28/10/2018:click chuot phai: X = 324 ; Y = 102
-14:48:55  28/10/2018:click chuot phai: X = 288 ; Y = 119
-14:48:55  28/10/2018:click chuot phai: X = 310 ; Y = 117
-14:48:56  28/10/2018:click chuot trai: X = 296 ; Y = 102
-14:48:56  28/10/2018:click chuot phai: X = 293 ; Y = 113
-14:48:57  28/10/2018:click chuot phai: X = 337 ; Y = 120
-14:48:57  28/10/2018:click chuot trai: X = 325 ; Y = 160
-14:48:57  28/10/2018:click chuot trai: X = 318 ; Y = 155
-14:48:57  28/10/2018:click chuot phai: X = 386 ; Y = 170
-14:48:58  28/10/2018:click chuot phai: X = 436 ; Y = 143
-14:48:58  28/10/2018:click chuot trai: X = 436 ; Y = 152
-14:59:28  28/10/2018:click chuot phai: X = 398 ; Y = 156
-14:59:28  28/10/2018:click chuot trai: X = 399 ; Y = 155
-14:59:28  28/10/2018:click dup chuot trai: X = 399 ; Y = 155
-14:59:28  28/10/2018:click chuot phai: X = 399 ; Y = 155
-14:59:29  28/10/2018:click chuot giua: X = 382 ; Y = 177
-14:59:29  28/10/2018:click chuot phai: X = 386 ; Y = 161
-14:59:29  28/10/2018:click chuot trai: X = 386 ; Y = 145
-14:59:29  28/10/2018:click chuot phai: X = 386 ; Y = 146
-14:59:30  28/10/2018:click chuot trai: X = 386 ; Y = 146
-14:59:30  28/10/2018:click chuot phai: X = 386 ; Y = 146
-14:59:30  28/10/2018:click chuot giua: X = 386 ; Y = 145
-14:59:30  28/10/2018:click chuot phai: X = 386 ; Y = 145
-14:59:31  28/10/2018:click chuot trai: X = 386 ; Y = 145
-14:59:31  28/10/2018:click chuot phai: X = 386 ; Y = 145
-14:59:31  28/10/2018:click dup chuot phai: X = 386 ; Y = 145
-14:59:31  28/10/2018:click chuot giua: X = 385 ; Y = 145
-14:59:33  28/10/2018:click chuot phai: X = 438 ; Y = 208
-14:59:33  28/10/2018:click chuot phai: X = 419 ; Y = 159
-14:59:33  28/10/2018:click chuot trai: X = 401 ; Y = 151
-14:59:33  28/10/2018:click dup chuot trai: X = 400 ; Y = 150
-14:59:34  28/10/2018:click chuot giua: X = 399 ; Y = 150
-14:59:34  28/10/2018:click chuot phai: X = 398 ; Y = 150
-14:59:34  28/10/2018:click chuot trai: X = 398 ; Y = 150
-14:59:35  28/10/2018:click dup chuot trai: X = 398 ; Y = 150
-14:59:35  28/10/2018:click chuot phai: X = 398 ; Y = 150
-14:59:35  28/10/2018:click dup chuot phai: X = 398 ; Y = 150
-14:59:35  28/10/2018:click chuot giua: X = 398 ; Y = 150
-14:59:36  28/10/2018:click chuot trai: X = 398 ; Y = 150
-14:59:36  28/10/2018:click chuot phai: X = 398 ; Y = 150
-14:59:36  28/10/2018:click chuot giua: X = 398 ; Y = 150
-14:59:37  28/10/2018:click dup chuot giua: X = 398 ; Y = 150
-14:59:37  28/10/2018:click chuot trai: X = 397 ; Y = 150
-14:59:37  28/10/2018:click chuot phai: X = 397 ; Y = 150
-14:59:38  28/10/2018:click dup chuot phai: X = 397 ; Y = 150
-14:59:38  28/10/2018:click chuot trai: X = 397 ; Y = 150
-14:59:38  28/10/2018:click chuot giua: X = 397 ; Y = 150
-14:59:39  28/10/2018:click chuot phai: X = 397 ; Y = 150
-14:59:39  28/10/2018:click chuot trai: X = 397 ; Y = 150
-14:59:39  28/10/2018:click chuot phai: X = 397 ; Y = 150
-14:59:40  28/10/2018:click dup chuot phai: X = 397 ; Y = 150
-14:59:40  28/10/2018:click chuot giua: X = 397 ; Y = 150
-14:59:40  28/10/2018:click chuot trai: X = 397 ; Y = 150
-14:59:42  28/10/2018:click chuot trai: X = 396 ; Y = 149
-14:59:42  28/10/2018:click dup chuot trai: X = 396 ; Y = 149
-14:59:42  28/10/2018:click chuot trai: X = 396 ; Y = 149
-14:59:43  28/10/2018:click chuot trai: X = 396 ; Y = 169
-14:59:43  28/10/2018:click dup chuot trai: X = 396 ; Y = 169
-14:59:43  28/10/2018:click chuot phai: X = 394 ; Y = 179
-14:59:43  28/10/2018:click chuot phai: X = 394 ; Y = 179
-14:59:43  28/10/2018:click dup chuot phai: X = 394 ; Y = 179
-14:59:44  28/10/2018:click chuot trai: X = 395 ; Y = 179
-14:59:44  28/10/2018:click dup chuot trai: X = 395 ; Y = 179
-14:59:44  28/10/2018:click chuot giua: X = 396 ; Y = 179
-14:59:45  28/10/2018:click dup chuot giua: X = 396 ; Y = 179
-14:59:45  28/10/2018:click chuot trai: X = 396 ; Y = 179
-14:59:45  28/10/2018:click dup chuot trai: X = 396 ; Y = 179
-14:59:45  28/10/2018:click chuot trai: X = 396 ; Y = 179
-15:6:55  28/10/2018:click chuot trai: X = 576 ; Y = 134
-15:6:56  28/10/2018:click chuot trai: X = 95 ; Y = 174
-15:13:52  28/10/2018:click chuot phai: X = 93 ; Y = 55
-15:13:52  28/10/2018:click dup chuot phai: X = 94 ; Y = 54
-15:13:53  28/10/2018:click chuot trai: X = 69 ; Y = 92
-15:13:53  28/10/2018:click dup chuot trai: X = 69 ; Y = 92
-15:13:53  28/10/2018:click chuot phai: X = 72 ; Y = 94
-15:13:53  28/10/2018:click chuot phai: X = 72 ; Y = 94
-15:13:54  28/10/2018:click chuot trai: X = 72 ; Y = 95
-15:13:54  28/10/2018:click chuot giua: X = 81 ; Y = 94
-15:13:55  28/10/2018:click chuot trai: X = 71 ; Y = 88
-15:13:55  28/10/2018:click chuot phai: X = 71 ; Y = 88
-15:13:55  28/10/2018:click chuot trai: X = 70 ; Y = 88
-15:13:56  28/10/2018:click chuot giua: X = 84 ; Y = 90
-15:16:25  28/10/2018:click chuot trai: X = 294 ; Y = 158
-15:16:25  28/10/2018:click dup chuot trai: X = 294 ; Y = 158
-15:16:25  28/10/2018:click chuot trai: X = 294 ; Y = 158
-15:16:26  28/10/2018:click chuot trai: X = 316 ; Y = 132
-15:16:30  28/10/2018:click chuot trai: X = 270 ; Y = 388
-15:16:56  28/10/2018:click chuot trai: X = 788 ; Y = 3
-15:18:38  28/10/2018:click chuot trai: X = 271 ; Y = 398
-15:18:38  28/10/2018:click dup chuot trai: X = 271 ; Y = 398
-15:18:38  28/10/2018:click chuot trai: X = 271 ; Y = 398
-15:18:39  28/10/2018:click dup chuot trai: X = 271 ; Y = 398
-15:18:39  28/10/2018:click chuot trai: X = 270 ; Y = 400
-15:18:39  28/10/2018:click dup chuot trai: X = 270 ; Y = 400
-15:18:40  28/10/2018:click chuot trai: X = 282 ; Y = 119
-15:18:40  28/10/2018:click dup chuot trai: X = 282 ; Y = 119
-15:18:41  28/10/2018:click chuot trai: X = 282 ; Y = 119
-15:18:41  28/10/2018:click dup chuot trai: X = 282 ; Y = 119
-15:18:42  28/10/2018:click chuot trai: X = 285 ; Y = 119
-15:18:42  28/10/2018:click dup chuot trai: X = 285 ; Y = 119
-15:18:42  28/10/2018:click chuot trai: X = 285 ; Y = 119
-15:18:42  28/10/2018:click dup chuot trai: X = 285 ; Y = 119
-15:18:43  28/10/2018:click chuot trai: X = 285 ; Y = 119
-15:18:43  28/10/2018:click chuot trai: X = 329 ; Y = 123
-15:18:43  28/10/2018:click dup chuot trai: X = 329 ; Y = 123
-15:18:44  28/10/2018:click chuot trai: X = 315 ; Y = 155
-15:18:44  28/10/2018:click dup chuot trai: X = 315 ; Y = 155
-15:18:45  28/10/2018:click chuot trai: X = 311 ; Y = 120
-15:18:53  28/10/2018:click chuot trai: X = 19 ; Y = 34
-15:18:53  28/10/2018:click dup chuot trai: X = 19 ; Y = 34
-15:18:53  28/10/2018:click chuot trai: X = 19 ; Y = 34
-15:18:54  28/10/2018:click dup chuot trai: X = 19 ; Y = 34
-15:18:54  28/10/2018:click chuot trai: X = 19 ; Y = 34
-15:20:15  28/10/2018:click chuot trai: X = 467 ; Y = 53
-15:20:15  28/10/2018:click chuot phai: X = 469 ; Y = 53
-15:20:16  28/10/2018:click chuot trai: X = 445 ; Y = 49
-15:20:16  28/10/2018:click dup chuot trai: X = 445 ; Y = 49
-15:20:16  28/10/2018:click chuot phai: X = 449 ; Y = 49
-15:20:17  28/10/2018:click chuot giua: X = 455 ; Y = 53
-16:2:42  28/10/2018:click chuot trai: X = 593 ; Y = 70
-16:2:49  28/10/2018:click chuot trai: X = 373 ; Y = 33
-16:3:2  28/10/2018:click chuot trai: X = 153 ; Y = 190
-16:3:6  28/10/2018:click chuot trai: X = 607 ; Y = 145
-16:3:9  28/10/2018:click chuot trai: X = 106 ; Y = 247
-16:3:12  28/10/2018:click chuot trai: X = 158 ; Y = 38
-16:3:16  28/10/2018:click chuot trai: X = 481 ; Y = 57
-9:5:30  8/11/2018:click chuot trai: X = 529 ; Y = 49
-9:6:8  8/11/2018:click chuot trai: X = 168 ; Y = 167
-9:6:9  8/11/2018:click chuot trai: X = 153 ; Y = 67
-9:6:11  8/11/2018:click chuot trai: X = 109 ; Y = 176
-9:6:15  8/11/2018:click chuot trai: X = 221 ; Y = 128
-9:6:21  8/11/2018:click chuot trai: X = 6 ; Y = 4
-22:49:6  8/11/2018:click chuot trai: X = 575 ; Y = 172
-22:49:7  8/11/2018:click chuot trai: X = 522 ; Y = 24
-22:49:21  8/11/2018:click chuot trai: X = 616 ; Y = 121
-22:49:25  8/11/2018:click chuot trai: X = 315 ; Y = 50
-22:49:26  8/11/2018:click chuot trai: X = 522 ; Y = 46
-22:49:37  8/11/2018:click chuot trai: X = 451 ; Y = 43
-9:55:28  10/11/2018:click chuot trai: X = 571 ; Y = 73
-10:2:55  10/11/2018:click chuot phai: X = 379 ; Y = 9
-10:2:56  10/11/2018:click chuot trai: X = 202 ; Y = 94
-10:3:1  10/11/2018:click chuot trai: X = 190 ; Y = 58
-10:3:1  10/11/2018:click chuot phai: X = 51 ; Y = 144
-10:3:1  10/11/2018:click chuot phai: X = 125 ; Y = 309
-10:3:7  10/11/2018:click chuot trai: X = 92 ; Y = 171
-10:3:7  10/11/2018:click chuot phai: X = 104 ; Y = 139
-10:3:8  10/11/2018:click dup chuot phai: X = 104 ; Y = 139
-10:3:8  10/11/2018:click chuot trai: X = 213 ; Y = 136
-10:3:11  10/11/2018:click chuot phai: X = 573 ; Y = 134
-10:3:11  10/11/2018:click chuot trai: X = 189 ; Y = 100
-10:3:12  10/11/2018:click chuot phai: X = 39 ; Y = 60
-10:7:13  10/11/2018:click chuot phai: X = 698 ; Y = 153
-10:7:13  10/11/2018:click chuot trai: X = 698 ; Y = 153
-10:7:13  10/11/2018:click dup chuot trai: X = 697 ; Y = 155
-10:7:14  10/11/2018:click chuot giua: X = 701 ; Y = 149
-10:7:14  10/11/2018:click chuot phai: X = 1122 ; Y = 152
-10:7:15  10/11/2018:click chuot trai: X = 1151 ; Y = 197
-10:7:15  10/11/2018:click chuot trai: X = 1116 ; Y = 556
-10:13:57  10/11/2018:click chuot phai: X = 216 ; Y = 80
-10:13:58  10/11/2018:click chuot trai: X = 177 ; Y = 83
-10:13:58  10/11/2018:click chuot phai: X = 176 ; Y = 83
-10:13:59  10/11/2018:click chuot phai: X = 121 ; Y = 45
-10:14:0  10/11/2018:click chuot phai: X = 209 ; Y = 48
-10:14:0  10/11/2018:click chuot phai: X = 214 ; Y = 192
-10:14:1  10/11/2018:click chuot trai: X = 157 ; Y = 193
-10:14:1  10/11/2018:click chuot phai: X = 131 ; Y = 79
-10:14:2  10/11/2018:click chuot trai: X = 130 ; Y = 74
-10:14:2  10/11/2018:click dup chuot trai: X = 130 ; Y = 74
-10:14:3  10/11/2018:click chuot phai: X = 145 ; Y = 73
-10:14:3  10/11/2018:click chuot trai: X = 211 ; Y = 63
-10:14:6  10/11/2018:click chuot phai: X = 717 ; Y = 104
-10:14:6  10/11/2018:click dup chuot phai: X = 717 ; Y = 104
-10:14:7  10/11/2018:click chuot phai: X = 717 ; Y = 104
-10:14:19  10/11/2018:click chuot trai: X = 212 ; Y = 137
-10:14:19  10/11/2018:click chuot phai: X = 212 ; Y = 137
-10:14:20  10/11/2018:click chuot trai: X = 212 ; Y = 136
-10:14:20  10/11/2018:click dup chuot trai: X = 212 ; Y = 136
-10:14:20  10/11/2018:click chuot trai: X = 212 ; Y = 136
-10:14:21  10/11/2018:click chuot giua: X = 212 ; Y = 129
-10:20:7  10/11/2018:click chuot phai: X = 187 ; Y = 40
-10:20:7  10/11/2018:click chuot trai: X = 187 ; Y = 42
-10:20:8  10/11/2018:click chuot giua: X = 197 ; Y = 134
-10:35:20  10/11/2018:click chuot trai: X = 146 ; Y = 114
-10:42:42  10/11/2018:click chuot trai: X = 639 ; Y = 91
-10:42:43  10/11/2018:click chuot trai: X = 190 ; Y = 91
-10:48:18  10/11/2018:click chuot trai: X = 462 ; Y = 6
-11:7:7  10/11/2018:click chuot trai: X = 466 ; Y = 27
-11:7:12  10/11/2018:click chuot trai: X = 138 ; Y = 151
-14:38:15  10/11/2018:click chuot trai: X = 211 ; Y = 61
-14:38:19  10/11/2018:click chuot trai: X = 344 ; Y = 23
-17:45:29  11/11/2018:click chuot trai: X = 480 ; Y = 50
-17:45:31  11/11/2018:click chuot trai: X = 616 ; Y = 155
-17:45:31  11/11/2018:click chuot trai: X = 581 ; Y = 92
-17:45:33  11/11/2018:click chuot trai: X = 108 ; Y = 61
-17:45:34  11/11/2018:click chuot trai: X = 87 ; Y = 180
-17:45:35  11/11/2018:click chuot trai: X = 721 ; Y = 64
-17:46:46  11/11/2018:click chuot trai: X = 667 ; Y = 59
-15:9:54  11/11/2018:click chuot trai: X = 154 ; Y = 210
-15:16:40  11/11/2018:click chuot trai: X = 200 ; Y = 80
-15:19:31  11/11/2018:click chuot trai: X = 632 ; Y = 56
-15:19:32  11/11/2018:click dup chuot trai: X = 632 ; Y = 56
-15:19:32  11/11/2018:click chuot trai: X = 632 ; Y = 56
-15:19:32  11/11/2018:click dup chuot trai: X = 632 ; Y = 56
-15:19:33  11/11/2018:click chuot trai: X = 632 ; Y = 56
-15:19:33  11/11/2018:click dup chuot trai: X = 632 ; Y = 56
-15:19:33  11/11/2018:click chuot trai: X = 632 ; Y = 56
-15:19:33  11/11/2018:click dup chuot trai: X = 632 ; Y = 56
-15:39:36  11/11/2018:click chuot trai: X = 163 ; Y = 121
-15:39:37  11/11/2018:click chuot trai: X = 475 ; Y = 32
-15:39:39  11/11/2018:click chuot trai: X = 620 ; Y = 176
-15:39:40  11/11/2018:click chuot trai: X = 79 ; Y = 218
+9:31:43  12/11/2018:click chuot trai: X = 396 ; Y = 80
+9:32:57  12/11/2018:click chuot trai: X = 338 ; Y = 55
+9:32:58  12/11/2018:click dup chuot trai: X = 338 ; Y = 55
+9:32:58  12/11/2018:click chuot trai: X = 338 ; Y = 55
+9:32:58  12/11/2018:click dup chuot trai: X = 338 ; Y = 55
+9:33:29  12/11/2018:click chuot trai vao Properties
+9:33:29  12/11/2018:click chuot trai vao Thong Tin
+9:33:30  12/11/2018:click chuot trai vao Thong Tin
+9:33:31  12/11/2018:click chuot trai vao Properties
+9:33:32  12/11/2018:click chuot trai: X = 394 ; Y = 100
+9:34:55  12/11/2018:click chuot trai: X = 371 ; Y = 191
+9:35:0  12/11/2018:click chuot giua: X = 374 ; Y = 198
+9:35:1  12/11/2018:click dup chuot giua: X = 374 ; Y = 198
+9:35:1  12/11/2018:click chuot trai: X = 374 ; Y = 198
+9:35:9  12/11/2018:click chuot trai: X = 334 ; Y = 171
+9:35:11  12/11/2018:click chuot trai: X = 368 ; Y = 154
+9:35:12  12/11/2018:click chuot trai: X = 368 ; Y = 154
+9:35:13  12/11/2018:click chuot trai: X = 368 ; Y = 154
+9:35:15  12/11/2018:click chuot phai: X = 456 ; Y = 156
+9:35:16  12/11/2018:click dup chuot phai: X = 456 ; Y = 156
+9:35:37  12/11/2018:click chuot trai: X = 353 ; Y = 163
+9:35:38  12/11/2018:click dup chuot trai: X = 353 ; Y = 163
+9:35:40  12/11/2018:click chuot trai: X = 353 ; Y = 163
+9:35:41  12/11/2018:click dup chuot trai: X = 353 ; Y = 163
+9:35:41  12/11/2018:click chuot trai: X = 353 ; Y = 163
+9:35:42  12/11/2018:click chuot phai: X = 439 ; Y = 155
+9:35:43  12/11/2018:click dup chuot phai: X = 439 ; Y = 155
+9:35:44  12/11/2018:click chuot phai: X = 439 ; Y = 155
+9:35:44  12/11/2018:click dup chuot phai: X = 439 ; Y = 155
+9:35:45  12/11/2018:click chuot phai: X = 439 ; Y = 155
+9:36:10  12/11/2018:click chuot trai: X = 339 ; Y = 147
+9:36:11  12/11/2018:click dup chuot trai: X = 339 ; Y = 147
+9:36:11  12/11/2018:click chuot trai: X = 339 ; Y = 147
+9:36:12  12/11/2018:click dup chuot trai: X = 339 ; Y = 147
+9:36:13  12/11/2018:click chuot trai: X = 339 ; Y = 147
+9:36:28  12/11/2018:click chuot trai: X = 406 ; Y = 187
+9:36:30  12/11/2018:click chuot trai: X = 467 ; Y = 167
+9:36:31  12/11/2018:click chuot phai: X = 395 ; Y = 162
+9:36:32  12/11/2018:click dup chuot phai: X = 395 ; Y = 162
+9:37:28  12/11/2018:click chuot trai: X = 401 ; Y = 167
+9:37:29  12/11/2018:click dup chuot trai: X = 400 ; Y = 167
+9:37:29  12/11/2018:click chuot trai: X = 392 ; Y = 169
+9:37:32  12/11/2018:click chuot phai: X = 386 ; Y = 174
+9:37:35  12/11/2018:click chuot trai: X = 386 ; Y = 182
+9:37:37  12/11/2018:click chuot phai: X = 386 ; Y = 182
+9:37:39  12/11/2018:click chuot trai: X = 386 ; Y = 182
+10:9:42  12/11/2018:click chuot trai vao Properties
+10:9:44  12/11/2018:click chuot trai vao Thong Tin
+10:9:45  12/11/2018:click chuot trai vao Properties
+10:9:46  12/11/2018:click chuot trai: X = 291 ; Y = 68
+10:13:12  12/11/2018:click chuot trai vao Thong Tin
+10:13:16  12/11/2018:click chuot trai vao Properties
+10:13:19  12/11/2018:click chuot trai vao Properties
+10:13:22  12/11/2018:click chuot trai vao Properties
+10:13:26  12/11/2018:click chuot trai vao Thong Tin
+10:13:28  12/11/2018:click chuot trai vao Properties
+10:13:56  12/11/2018:click chuot trai vao Properties
+10:13:59  12/11/2018:click chuot trai vao Thong Tin
+10:14:5  12/11/2018:click chuot trai vao Properties
+10:14:12  12/11/2018:click chuot trai vao Properties
+10:19:42  12/11/2018:click chuot trai: X = 343 ; Y = 194
+10:19:42  12/11/2018:click dup chuot trai: X = 343 ; Y = 194
+10:19:42  12/11/2018:click chuot trai: X = 343 ; Y = 194
+10:19:43  12/11/2018:click chuot phai: X = 380 ; Y = 188
+10:19:43  12/11/2018:click dup chuot phai: X = 380 ; Y = 188
+10:19:43  12/11/2018:click chuot phai: X = 430 ; Y = 170
+10:19:43  12/11/2018:click chuot trai: X = 314 ; Y = 158
+10:19:44  12/11/2018:click chuot phai: X = 409 ; Y = 151
+10:19:44  12/11/2018:click chuot trai: X = 381 ; Y = 152
+10:19:44  12/11/2018:click chuot phai: X = 391 ; Y = 152
+10:19:45  12/11/2018:click chuot phai: X = 437 ; Y = 148
+10:19:45  12/11/2018:click chuot trai: X = 314 ; Y = 148
+10:19:45  12/11/2018:click chuot trai: X = 320 ; Y = 149
+10:19:46  12/11/2018:click chuot phai: X = 365 ; Y = 146
+10:19:46  12/11/2018:click chuot giua: X = 364 ; Y = 161
+10:19:47  12/11/2018:click chuot giua: X = 364 ; Y = 162
+10:20:10  12/11/2018:click chuot trai: X = 381 ; Y = 165
+10:20:10  12/11/2018:click chuot phai: X = 382 ; Y = 168
+10:20:11  12/11/2018:click chuot phai: X = 386 ; Y = 170
+10:20:13  12/11/2018:click chuot trai: X = 331 ; Y = 73
+10:20:13  12/11/2018:click chuot trai: X = 495 ; Y = 85
+10:20:14  12/11/2018:click chuot trai: X = 484 ; Y = 65
+10:20:14  12/11/2018:click chuot phai: X = 484 ; Y = 64
+10:20:14  12/11/2018:click chuot trai: X = 472 ; Y = 58
+10:20:15  12/11/2018:click dup chuot trai: X = 470 ; Y = 58
+10:20:15  12/11/2018:click chuot giua: X = 493 ; Y = 62
+10:20:16  12/11/2018:click chuot trai: X = 471 ; Y = 70
+10:20:17  12/11/2018:click chuot phai: X = 470 ; Y = 75
+10:20:17  12/11/2018:click chuot trai: X = 448 ; Y = 58
+10:20:19  12/11/2018:click chuot giua: X = 396 ; Y = 165
+10:20:19  12/11/2018:click chuot phai: X = 398 ; Y = 165
+10:20:20  12/11/2018:click chuot trai: X = 398 ; Y = 165
+10:20:20  12/11/2018:click chuot phai: X = 455 ; Y = 165
+10:20:20  12/11/2018:click chuot trai: X = 426 ; Y = 163
+10:20:22  12/11/2018:click chuot phai: X = 358 ; Y = 148
+10:20:22  12/11/2018:click chuot trai: X = 358 ; Y = 148
+10:20:36  12/11/2018:click chuot phai: X = 357 ; Y = 121
+10:23:39  12/11/2018:click chuot trai: X = 371 ; Y = 160
+10:23:39  12/11/2018:click dup chuot trai: X = 371 ; Y = 160
+10:23:39  12/11/2018:click chuot phai: X = 371 ; Y = 160
+10:23:40  12/11/2018:click chuot trai: X = 466 ; Y = 158
+10:23:40  12/11/2018:click chuot trai: X = 378 ; Y = 162
+10:23:40  12/11/2018:click chuot phai: X = 379 ; Y = 162
+10:23:41  12/11/2018:click chuot trai: X = 410 ; Y = 156
+10:23:41  12/11/2018:click chuot trai: X = 379 ; Y = 156
+10:23:41  12/11/2018:click chuot phai: X = 411 ; Y = 153
+10:23:41  12/11/2018:click chuot trai: X = 388 ; Y = 152
+10:23:42  12/11/2018:click chuot phai: X = 424 ; Y = 149
+10:23:42  12/11/2018:click chuot trai: X = 401 ; Y = 151
+10:23:42  12/11/2018:click dup chuot trai: X = 404 ; Y = 150
+10:23:43  12/11/2018:click chuot giua: X = 408 ; Y = 141
+10:23:43  12/11/2018:click chuot trai: X = 281 ; Y = 123
+10:23:45  12/11/2018:click chuot trai: X = 409 ; Y = 77
+10:23:45  12/11/2018:click chuot trai: X = 499 ; Y = 39
+10:23:45  12/11/2018:click chuot trai: X = 516 ; Y = 31
+10:23:46  12/11/2018:click chuot trai: X = 555 ; Y = 22
+10:23:46  12/11/2018:click chuot trai: X = 354 ; Y = 24
+10:23:47  12/11/2018:click chuot trai: X = 289 ; Y = 27
+10:23:47  12/11/2018:click chuot phai: X = 281 ; Y = 27
+10:24:35  12/11/2018:click chuot trai: X = 365 ; Y = 166
+10:24:36  12/11/2018:click chuot phai: X = 365 ; Y = 166
+10:24:37  12/11/2018:click chuot trai: X = 365 ; Y = 168
+10:24:37  12/11/2018:click chuot trai: X = 421 ; Y = 151
+10:24:38  12/11/2018:click chuot trai: X = 441 ; Y = 129
+10:24:38  12/11/2018:click chuot trai: X = 366 ; Y = 124
+10:24:38  12/11/2018:click chuot trai: X = 394 ; Y = 167
+10:24:38  12/11/2018:click dup chuot trai: X = 394 ; Y = 167
+10:24:52  12/11/2018:click chuot trai: X = 416 ; Y = 188
+10:24:52  12/11/2018:click chuot trai: X = 368 ; Y = 188
+10:24:53  12/11/2018:click dup chuot trai: X = 368 ; Y = 188
+10:24:53  12/11/2018:click chuot phai: X = 372 ; Y = 177
+10:24:53  12/11/2018:click chuot phai: X = 409 ; Y = 170
+10:24:53  12/11/2018:click chuot trai: X = 431 ; Y = 165
+10:24:54  12/11/2018:click chuot trai: X = 414 ; Y = 149
+10:24:54  12/11/2018:click chuot trai: X = 385 ; Y = 141
+10:24:54  12/11/2018:click dup chuot trai: X = 383 ; Y = 154
+10:24:54  12/11/2018:click chuot trai: X = 383 ; Y = 154
+10:24:55  12/11/2018:click chuot trai: X = 408 ; Y = 134
+10:24:55  12/11/2018:click chuot trai: X = 416 ; Y = 123
+10:24:56  12/11/2018:click chuot trai: X = 424 ; Y = 191
+10:24:56  12/11/2018:click chuot trai: X = 383 ; Y = 216
+10:24:56  12/11/2018:click chuot trai: X = 380 ; Y = 218
+10:24:57  12/11/2018:click chuot giua: X = 389 ; Y = 204
+10:24:57  12/11/2018:click chuot giua: X = 390 ; Y = 205
+10:24:57  12/11/2018:click chuot trai: X = 377 ; Y = 217
+10:25:33  12/11/2018:click chuot trai: X = 415 ; Y = 169
+10:25:33  12/11/2018:click chuot trai: X = 379 ; Y = 171
+10:25:34  12/11/2018:click dup chuot trai: X = 379 ; Y = 171
+10:25:35  12/11/2018:click chuot phai: X = 378 ; Y = 145
+10:25:35  12/11/2018:click chuot phai: X = 373 ; Y = 145
+10:25:35  12/11/2018:click chuot trai: X = 374 ; Y = 144
+10:25:36  12/11/2018:click dup chuot trai: X = 374 ; Y = 144
+10:25:36  12/11/2018:click chuot trai: X = 386 ; Y = 149
+10:25:36  12/11/2018:click chuot trai: X = 404 ; Y = 290
+10:25:36  12/11/2018:click chuot phai: X = 406 ; Y = 288
+10:25:37  12/11/2018:click chuot trai: X = 457 ; Y = 322
+10:25:38  12/11/2018:click chuot phai: X = 401 ; Y = 272
+10:25:38  12/11/2018:click chuot trai: X = 428 ; Y = 242
+10:25:40  12/11/2018:click chuot phai: X = 397 ; Y = 152
+10:25:41  12/11/2018:click chuot trai: X = 445 ; Y = 140
+10:25:41  12/11/2018:click chuot trai: X = 447 ; Y = 145
+10:26:18  12/11/2018:click chuot trai: X = 380 ; Y = 156
+10:26:18  12/11/2018:click chuot phai: X = 393 ; Y = 153
+10:26:30  12/11/2018:click chuot trai: X = 348 ; Y = 189
+10:26:30  12/11/2018:click chuot phai: X = 358 ; Y = 175
+10:26:30  12/11/2018:click chuot phai: X = 364 ; Y = 172
+10:26:48  12/11/2018:click chuot trai: X = 395 ; Y = 146
+10:26:49  12/11/2018:click dup chuot trai: X = 395 ; Y = 146
+10:26:49  12/11/2018:click chuot phai: X = 395 ; Y = 150
+10:26:49  12/11/2018:click chuot trai: X = 390 ; Y = 194
+10:34:14  12/11/2018:click chuot trai: X = 375 ; Y = 164
+10:34:14  12/11/2018:click chuot phai: X = 386 ; Y = 152
+10:34:15  12/11/2018:click chuot trai: X = 386 ; Y = 152
+10:34:16  12/11/2018:click chuot giua: X = 386 ; Y = 153
+10:34:17  12/11/2018:click chuot trai: X = 386 ; Y = 153
+10:34:17  12/11/2018:click chuot trai: X = 386 ; Y = 153
+10:34:17  12/11/2018:click chuot trai: X = 386 ; Y = 153
+10:34:17  12/11/2018:click chuot trai: X = 386 ; Y = 153
+10:34:18  12/11/2018:click chuot trai: X = 386 ; Y = 153
+10:34:44  12/11/2018:click chuot trai: X = 380 ; Y = 184
+10:34:44  12/11/2018:click chuot trai: X = 380 ; Y = 184
+10:34:44  12/11/2018:click chuot trai: X = 380 ; Y = 184
+10:34:46  12/11/2018:click chuot trai: X = 347 ; Y = 182
+10:34:46  12/11/2018:click chuot trai: X = 347 ; Y = 182
+10:34:46  12/11/2018:click chuot trai: X = 347 ; Y = 182
+10:34:47  12/11/2018:click chuot trai: X = 373 ; Y = 182
+10:34:47  12/11/2018:click chuot trai: X = 373 ; Y = 182
+10:34:47  12/11/2018:click chuot trai: X = 373 ; Y = 182
+10:34:48  12/11/2018:click chuot trai: X = 373 ; Y = 182
+10:34:48  12/11/2018:click chuot trai: X = 373 ; Y = 182
+10:34:48  12/11/2018:click chuot trai: X = 373 ; Y = 182
+10:36:22  12/11/2018:click chuot trai vao Thong Tin
+10:36:26  12/11/2018:click chuot trai vao Properties
+10:36:30  12/11/2018:click chuot trai: X = 371 ; Y = 172
+10:36:31  12/11/2018:click chuot phai: X = 437 ; Y = 169
+10:36:32  12/11/2018:click chuot trai: X = 393 ; Y = 175
+10:36:32  12/11/2018:click chuot giua: X = 407 ; Y = 178
+10:36:33  12/11/2018:click chuot trai: X = 378 ; Y = 286
+10:36:33  12/11/2018:click chuot phai: X = 412 ; Y = 261
+10:36:34  12/11/2018:click chuot trai: X = 386 ; Y = 261
+10:36:34  12/11/2018:click chuot giua: X = 400 ; Y = 259
+10:37:1  12/11/2018:click chuot trai vao Thong Tin
+10:37:3  12/11/2018:click chuot trai: X = 152 ; Y = 251
+10:37:4  12/11/2018:click chuot trai: X = 359 ; Y = 171
+10:37:5  12/11/2018:click chuot phai: X = 358 ; Y = 171
+10:37:6  12/11/2018:click chuot trai: X = 358 ; Y = 173
+10:37:6  12/11/2018:click chuot phai: X = 358 ; Y = 173
+10:37:7  12/11/2018:click chuot trai: X = 357 ; Y = 172
+10:37:8  12/11/2018:click chuot phai: X = 357 ; Y = 172
+10:37:9  12/11/2018:click chuot trai: X = 354 ; Y = 169
+10:37:9  12/11/2018:click chuot phai: X = 354 ; Y = 169
+10:37:10  12/11/2018:click chuot trai: X = 360 ; Y = 167
+10:37:11  12/11/2018:click chuot phai: X = 360 ; Y = 167
+10:37:29  12/11/2018:click chuot trai: X = 132 ; Y = 163
+10:37:31  12/11/2018:click chuot trai: X = 360 ; Y = 150
+10:37:33  12/11/2018:click chuot phai: X = 360 ; Y = 150
+10:37:35  12/11/2018:click chuot trai: X = 360 ; Y = 150
+10:37:36  12/11/2018:click chuot phai: X = 360 ; Y = 150
+10:37:37  12/11/2018:click chuot trai: X = 360 ; Y = 149
+10:37:38  12/11/2018:click chuot giua: X = 360 ; Y = 149
+10:39:16  12/11/2018:click chuot trai vao Properties
+10:39:17  12/11/2018:click chuot trai vao Thong Tin
+10:39:19  12/11/2018:click chuot trai: X = 70 ; Y = 159
+10:39:19  12/11/2018:click chuot trai vao Properties

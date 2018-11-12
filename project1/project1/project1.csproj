@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BD356712-31B3-485C-99CC-8EEA83177558}</ProjectGuid>
+    <ProjectGuid>{4A46C1F7-7E67-498A-A7CC-60850732D256}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>project1</RootNamespace>
-    <AssemblyName>project1</AssemblyName>
+    <RootNamespace>Project1</RootNamespace>
+    <AssemblyName>Project1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -81,7 +81,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Mouse_master.jpg" />
+    <None Include="Resources\Mouse.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\MouseLeft.jpg" />
@@ -91,9 +91,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\MouseRight.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Mouse.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

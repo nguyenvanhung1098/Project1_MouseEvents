@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace project1.Properties {
+namespace Project1.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace project1.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("project1.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Project1.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -66,16 +66,6 @@ namespace project1.Properties {
         internal static System.Drawing.Bitmap Mouse {
             get {
                 object obj = ResourceManager.GetObject("Mouse", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Mouse_master {
-            get {
-                object obj = ResourceManager.GetObject("Mouse_master", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

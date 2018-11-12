@@ -9,13 +9,12 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
 
-namespace project1
+namespace Project1
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
-
             InitializeComponent();
             propertyGrid1.Visible = false;
             propertyGrid2.Visible = false;
@@ -24,8 +23,9 @@ namespace project1
             propertyGrid5.Visible = false;
             propertyGrid6.Visible = false;
             propertyGrid7.Visible = false;
-        }
+            button3.Visible = false;
 
+        }
 
         // sự kiện MouseClick : lấy tọa độ chuột và ghi ra file tọa độ và thời gian click chuột
         // picture cong them toa do chuot voi toa do picture
@@ -36,7 +36,7 @@ namespace project1
 
                 StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file          
                 DateTime aDateTime = DateTime.Now;// lay thoi gian hien tai
-                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot trai: X = " +( e.X +230 ) + " ; Y = " + ( e.Y + 70 ) );
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot trai: X = " + (e.X + 230) + " ; Y = " + (e.Y + 70));
                 file.Close();
             }
             if (e.Button == MouseButtons.Right)
@@ -211,6 +211,59 @@ namespace project1
             }
         }
 
+        private void button1_MouseClick(object sender, MouseEventArgs e)
+        {
+            contextMenuStrip1.Show(this,new Point(0,0));
+            if (e.Button == MouseButtons.Left)
+            {
+
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file          
+                DateTime aDateTime = DateTime.Now;// lay thoi gian hien tai
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot trai vao Thong Tin");
+                file.Close();
+            }
+            if (e.Button == MouseButtons.Right)
+            {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot phai vao Thong tin");
+                file.Close();
+            }
+            if (e.Button == MouseButtons.Middle)
+            {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot giua vao Thong Tin");
+                file.Close();
+            }
+        }
+
+        private void button2_MouseClick(object sender, MouseEventArgs e)
+        {
+            contextMenuStrip2.Show(this, new Point(0, 0));
+            if (e.Button == MouseButtons.Left)
+            {
+
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file          
+                DateTime aDateTime = DateTime.Now;// lay thoi gian hien tai
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot trai vao Properties");
+                file.Close();
+            }
+            if (e.Button == MouseButtons.Right)
+            {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot phai vao Properties");
+                file.Close();
+            }
+            if (e.Button == MouseButtons.Middle)
+            {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot giua vao Properties");
+                file.Close();
+            }
+        }
 
         // Su ly su kien MouseDoubleClick
         private void pictureBox1_Mouse_MouseDoubleClick(object sender, MouseEventArgs e)
@@ -400,13 +453,22 @@ namespace project1
         {
             if (e.Button == MouseButtons.Left)
             {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot trai: X = " + (e.X + 230) + " ; Y = " + (e.Y + 70));
+                file.Close();
                 pictureBox1_Mouse.Visible = false;
                 pictureBox2_MouseLeft.Visible = true;
                 pictureBox3_MouseMid.Visible = false;
                 pictureBox4_MouseRight.Visible = false;
+
             }
             if (e.Button == MouseButtons.Right)
             {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot phai: X = " + (e.X + 230) + " ; Y = " + (e.Y + 70));
+                file.Close();
                 pictureBox1_Mouse.Visible = false;
                 pictureBox2_MouseLeft.Visible = false;
                 pictureBox3_MouseMid.Visible = false;
@@ -414,6 +476,10 @@ namespace project1
             }
             if (e.Button == MouseButtons.Middle)
             {
+                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
+                DateTime aDateTime = DateTime.Now;
+                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot giua: X = " + (e.X + 230) + " ; Y = " + (e.Y + 70));
+                file.Close();
                 pictureBox1_Mouse.Visible = false;
                 pictureBox2_MouseLeft.Visible = false;
                 pictureBox3_MouseMid.Visible = true;
@@ -570,12 +636,61 @@ namespace project1
                 pictureBox4_MouseRight.Visible = false;
             }
         }
+        private void button1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                pictureBox1_Mouse.Visible = false;
+                pictureBox2_MouseLeft.Visible = true;
+                pictureBox3_MouseMid.Visible = false;
+                pictureBox4_MouseRight.Visible = false;
+            }
+            if (e.Button == MouseButtons.Right)
+            {
+                pictureBox1_Mouse.Visible = false;
+                pictureBox2_MouseLeft.Visible = false;
+                pictureBox3_MouseMid.Visible = false;
+                pictureBox4_MouseRight.Visible = true;
+            }
+            if (e.Button == MouseButtons.Middle)
+            {
+                pictureBox1_Mouse.Visible = false;
+                pictureBox2_MouseLeft.Visible = false;
+                pictureBox3_MouseMid.Visible = true;
+                pictureBox4_MouseRight.Visible = false;
+            }
+        }
 
+        private void button2_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                pictureBox1_Mouse.Visible = false;
+                pictureBox2_MouseLeft.Visible = true;
+                pictureBox3_MouseMid.Visible = false;
+                pictureBox4_MouseRight.Visible = false;
+            }
+            if (e.Button == MouseButtons.Right)
+            {
+                pictureBox1_Mouse.Visible = false;
+                pictureBox2_MouseLeft.Visible = false;
+                pictureBox3_MouseMid.Visible = false;
+                pictureBox4_MouseRight.Visible = true;
+            }
+            if (e.Button == MouseButtons.Middle)
+            {
+                pictureBox1_Mouse.Visible = false;
+                pictureBox2_MouseLeft.Visible = false;
+                pictureBox3_MouseMid.Visible = true;
+                pictureBox4_MouseRight.Visible = false;
+            }
+        }
 
         // su ly su kien nha chuot: Hien thi anh chuot khi chua click chuot
         private void pictureBox1_Mouse_MouseUp(object sender, MouseEventArgs e)
         {
-            pictureBox1_Mouse.Visible = true;
+            pictureBox1_Mouse.Visible = true; ;
+
         }
 
         private void pictureBox2_MouseLeft_MouseUp(object sender, MouseEventArgs e)
@@ -606,16 +721,26 @@ namespace project1
         private void label2_MouseUp(object sender, MouseEventArgs e)
         {
             pictureBox1_Mouse.Visible = true;
+           
         }
 
+        private void button1_MouseUp(object sender,MouseEventArgs e)
+        {
+            pictureBox1_Mouse.Visible = true;
+        }
 
+        private void button2_MouseUp(object sender, MouseEventArgs e)
+        {
+            pictureBox1_Mouse.Visible = true;
+        }
+       
         // su ly su kien MouseMove : khi di chuyen chuot tren Form : se in toa do chuot ra man hinh
         private void pictureBox1_Mouse_MouseMove(object sender, MouseEventArgs e)
         {
-            label1.Text = "X = " + ( e.X + 230 ); // cong them toa do pictureBox
-            label2.Text = "Y = " + ( e.Y+ 70 ); // cong them toa do pictureBox
+            label1.Text = "X = " + (e.X + 230); // cong them toa do pictureBox
+            label2.Text = "Y = " + (e.Y + 70); // cong them toa do pictureBox
             label1.Location = new Point(e.X + 230 - label1.Width, e.Y + 70);
-            label2.Location = new Point(e.X + 230 , e.Y + 70 - label2.Height);
+            label2.Location = new Point(e.X + 230, e.Y + 70 - label2.Height);
         }
 
         private void pictureBox2_MouseLeft_MouseMove(object sender, MouseEventArgs e)
@@ -666,78 +791,85 @@ namespace project1
             label2.Location = new Point(e.X, e.Y - label2.Height);
         }
 
-        private void pictureBox1_Mouse_Click(object sender, EventArgs e)
+        private void thoatToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            contextMenuStrip1.Visible = false;
         }
 
-        // hiển thị propertyGrid
-        private void FormToolStripMenuItem_Click(object sender, EventArgs e)
+        private void formToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            propertyGrid2.Visible = false;
-            propertyGrid3.Visible = false;
-            propertyGrid4.Visible = false;
-            propertyGrid5.Visible = false;
-            propertyGrid6.Visible = false;
-            propertyGrid7.Visible = false;
+            button3.Visible = true;
             propertyGrid1.Visible = true;
-        }
-        private void pictureBoxMouseToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
             propertyGrid3.Visible = false;
             propertyGrid4.Visible = false;
             propertyGrid5.Visible = false;
             propertyGrid6.Visible = false;
-            propertyGrid7.Visible = false;
+         }
+
+        private void picturebox1MouseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button3.Visible = true;
+            propertyGrid1.Visible = false;
             propertyGrid2.Visible = true;
-        }
-
-        private void pictureBoxMouseLeftToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            propertyGrid1.Visible = false;
-            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
             propertyGrid4.Visible = false;
             propertyGrid5.Visible = false;
             propertyGrid6.Visible = false;
             propertyGrid7.Visible = false;
+        }
+
+        private void pictureBox2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button3.Visible = true;
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
             propertyGrid3.Visible = true;
-        }
-
-        private void pictureBoxMouseMidToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            propertyGrid1.Visible = false;
-            propertyGrid2.Visible = false;
-            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = false;
             propertyGrid5.Visible = false;
             propertyGrid6.Visible = false;
             propertyGrid7.Visible = false;
-            propertyGrid4.Visible = true;
         }
-        private void pictureBoxMouseRightToolStripMenuItem_Click(object sender, EventArgs e)
+
+        private void pictureBox3MouseMidToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button3.Visible = true;
+            propertyGrid1.Visible = false;
+            propertyGrid2.Visible = false;
+            propertyGrid3.Visible = false;
+            propertyGrid4.Visible = true;
+            propertyGrid5.Visible = false;
+            propertyGrid6.Visible = false;
+            propertyGrid7.Visible = false;
+        }
+
+        private void pictureBox4MouseRightToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button3.Visible = true;
             propertyGrid1.Visible = false;
             propertyGrid2.Visible = false;
             propertyGrid3.Visible = false;
             propertyGrid4.Visible = false;
+            propertyGrid5.Visible = true;
             propertyGrid6.Visible = false;
             propertyGrid7.Visible = false;
-            propertyGrid5.Visible = true;
-
         }
+
         private void label1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button3.Visible = true;
             propertyGrid1.Visible = false;
             propertyGrid2.Visible = false;
             propertyGrid3.Visible = false;
             propertyGrid4.Visible = false;
             propertyGrid5.Visible = false;
-            propertyGrid7.Visible = false;
             propertyGrid6.Visible = true;
+            propertyGrid7.Visible = false;
         }
 
         private void label2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            button3.Visible = true;
             propertyGrid1.Visible = false;
             propertyGrid2.Visible = false;
             propertyGrid3.Visible = false;
@@ -747,7 +879,7 @@ namespace project1
             propertyGrid7.Visible = true;
         }
 
-        private void thoátToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void button3_MouseClick(object sender, MouseEventArgs e)
         {
             propertyGrid1.Visible = false;
             propertyGrid2.Visible = false;
@@ -756,13 +888,16 @@ namespace project1
             propertyGrid5.Visible = false;
             propertyGrid6.Visible = false;
             propertyGrid7.Visible = false;
+            button3.Visible = false; 
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
+
+        
+
+        
     }
-
-
 }
