@@ -269,3 +269,6 @@
 6:2:32  25/11/2018:click chuot phai: X = 420 ; Y = 130
 6:2:32  25/11/2018:click chuot phai: X = 438 ; Y = 131
 6:2:32  25/11/2018:click chuot trai: X = 386 ; Y = 131
+6:11:50  25/11/2018:click chuot trai: X = 375 ; Y = 161
+6:11:50  25/11/2018:click chuot phai: X = 377 ; Y = 161
+6:11:50  25/11/2018:click chuot trai: X = 424 ; Y = 154
