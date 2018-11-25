@@ -223,3 +223,17 @@
 10:39:19  12/11/2018:click chuot trai: X = 70 ; Y = 159
 10:39:19  12/11/2018:click chuot trai vao Properties
 3:46:27  25/11/2018:click chuot trai: X = 219 ; Y = 131
+5:51:34  25/11/2018:click chuot trai vao Properties
+5:51:34  25/11/2018:click chuot trai: X = 384 ; Y = 60
+5:54:15  25/11/2018:click chuot trai: X = 180 ; Y = 107
+5:54:16  25/11/2018:click chuot trai: X = 97 ; Y = 54
+5:54:16  25/11/2018:click chuot phai: X = 97 ; Y = 108
+5:54:16  25/11/2018:click chuot phai: X = 122 ; Y = 110
+5:54:16  25/11/2018:click chuot trai: X = 163 ; Y = 183
+5:54:16  25/11/2018:click chuot giua: X = 249 ; Y = 156
+5:54:17  25/11/2018:click chuot trai vao Properties
+5:54:18  25/11/2018:click chuot trai: X = 242 ; Y = 125
+5:54:23  25/11/2018:click chuot trai: X = 154 ; Y = 218
+5:54:24  25/11/2018:click chuot trai vao Properties
+5:54:25  25/11/2018:click chuot trai: X = 179 ; Y = 216
+5:54:27  25/11/2018:click chuot trai vao Properties
