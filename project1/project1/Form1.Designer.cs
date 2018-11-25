@@ -35,15 +35,6 @@
             this.pictureBox4_MouseRight = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.họVàTênNguyễnVănHùngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mSSV20161972ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ngàySinh19101998ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.quêQuánHảiDươngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.thoatToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.formToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.picturebox1MouseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -60,11 +51,11 @@
             this.propertyGrid6 = new System.Windows.Forms.PropertyGrid();
             this.propertyGrid7 = new System.Windows.Forms.PropertyGrid();
             this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1_Mouse)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2_MouseLeft)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3_MouseMid)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4_MouseRight)).BeginInit();
-            this.contextMenuStrip1.SuspendLayout();
             this.contextMenuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -155,79 +146,6 @@
             this.label2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label2_MouseDown);
             this.label2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.label2_MouseMove);
             this.label2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.label2_MouseUp);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Thông Tin";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button1_MouseClick);
-            this.button1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.button1_MouseDown);
-            this.button1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.button1_MouseUp);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(0, 21);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "Properties";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button2_MouseClick);
-            this.button2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.button2_MouseDown);
-            this.button2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.button2_MouseUp);
-            // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.họVàTênNguyễnVănHùngToolStripMenuItem,
-            this.mSSV20161972ToolStripMenuItem,
-            this.ngàySinh19101998ToolStripMenuItem,
-            this.quêQuánHảiDươngToolStripMenuItem,
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem,
-            this.thoatToolStripMenuItem});
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(255, 136);
-            // 
-            // họVàTênNguyễnVănHùngToolStripMenuItem
-            // 
-            this.họVàTênNguyễnVănHùngToolStripMenuItem.Name = "họVàTênNguyễnVănHùngToolStripMenuItem";
-            this.họVàTênNguyễnVănHùngToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.họVàTênNguyễnVănHùngToolStripMenuItem.Text = "Họ Và Tên: Nguyễn Văn Hùng";
-            // 
-            // mSSV20161972ToolStripMenuItem
-            // 
-            this.mSSV20161972ToolStripMenuItem.Name = "mSSV20161972ToolStripMenuItem";
-            this.mSSV20161972ToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.mSSV20161972ToolStripMenuItem.Text = "MSSV:20161972";
-            // 
-            // ngàySinh19101998ToolStripMenuItem
-            // 
-            this.ngàySinh19101998ToolStripMenuItem.Name = "ngàySinh19101998ToolStripMenuItem";
-            this.ngàySinh19101998ToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.ngàySinh19101998ToolStripMenuItem.Text = "Ngày Sinh:19/10/1998";
-            // 
-            // quêQuánHảiDươngToolStripMenuItem
-            // 
-            this.quêQuánHảiDươngToolStripMenuItem.Name = "quêQuánHảiDươngToolStripMenuItem";
-            this.quêQuánHảiDươngToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.quêQuánHảiDươngToolStripMenuItem.Text = "Quê Quán:Hải Dương";
-            // 
-            // trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem
-            // 
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem.Name = "trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem";
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem.Text = "Trường:Đại học Bách Khoa Hà Nội";
-            // 
-            // thoatToolStripMenuItem
-            // 
-            this.thoatToolStripMenuItem.Name = "thoatToolStripMenuItem";
-            this.thoatToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.thoatToolStripMenuItem.Text = "Thoát";
-            this.thoatToolStripMenuItem.Click += new System.EventHandler(this.thoatToolStripMenuItem_Click);
             // 
             // contextMenuStrip2
             // 
@@ -358,6 +276,18 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button3_MouseClick);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(0, 21);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 7;
+            this.button2.Text = "Properties";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button2_MouseClick);
+            this.button2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.button2_MouseDown);
+            this.button2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.button2_MouseUp);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -372,7 +302,6 @@
             this.Controls.Add(this.propertyGrid3);
             this.Controls.Add(this.propertyGrid2);
             this.Controls.Add(this.propertyGrid1);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
@@ -392,7 +321,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2_MouseLeft)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3_MouseMid)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4_MouseRight)).EndInit();
-            this.contextMenuStrip1.ResumeLayout(false);
             this.contextMenuStrip2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -407,14 +335,6 @@
         private System.Windows.Forms.PictureBox pictureBox4_MouseRight;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem họVàTênNguyễnVănHùngToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem mSSV20161972ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ngàySinh19101998ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem quêQuánHảiDươngToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
         private System.Windows.Forms.ToolStripMenuItem formToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem picturebox1MouseToolStripMenuItem;
@@ -423,7 +343,6 @@
         private System.Windows.Forms.ToolStripMenuItem pictureBox4MouseRightToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem label1ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem label2ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem thoatToolStripMenuItem;
         private System.Windows.Forms.PropertyGrid propertyGrid1;
         private System.Windows.Forms.PropertyGrid propertyGrid7;
         private System.Windows.Forms.PropertyGrid propertyGrid6;
@@ -432,6 +351,7 @@
         private System.Windows.Forms.PropertyGrid propertyGrid3;
         private System.Windows.Forms.PropertyGrid propertyGrid2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button2;
     }
 }
 

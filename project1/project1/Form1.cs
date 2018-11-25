@@ -211,32 +211,7 @@ namespace Project1
             }
         }
 
-        private void button1_MouseClick(object sender, MouseEventArgs e)
-        {
-            contextMenuStrip1.Show(this,new Point(0,0));
-            if (e.Button == MouseButtons.Left)
-            {
-
-                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file          
-                DateTime aDateTime = DateTime.Now;// lay thoi gian hien tai
-                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot trai vao Thong Tin");
-                file.Close();
-            }
-            if (e.Button == MouseButtons.Right)
-            {
-                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
-                DateTime aDateTime = DateTime.Now;
-                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot phai vao Thong tin");
-                file.Close();
-            }
-            if (e.Button == MouseButtons.Middle)
-            {
-                StreamWriter file = new StreamWriter("Mouse.txt", true);// Mo va tao file MouseEvent.txt va ghi tiep vao file
-                DateTime aDateTime = DateTime.Now;
-                file.WriteLine(+aDateTime.Hour + ":" + aDateTime.Minute + ":" + aDateTime.Second + "  " + aDateTime.Day + "/" + aDateTime.Month + "/" + aDateTime.Year + ":" + "click chuot giua vao Thong Tin");
-                file.Close();
-            }
-        }
+        
 
         private void button2_MouseClick(object sender, MouseEventArgs e)
         {
@@ -636,30 +611,7 @@ namespace Project1
                 pictureBox4_MouseRight.Visible = false;
             }
         }
-        private void button1_MouseDown(object sender, MouseEventArgs e)
-        {
-            if (e.Button == MouseButtons.Left)
-            {
-                pictureBox1_Mouse.Visible = false;
-                pictureBox2_MouseLeft.Visible = true;
-                pictureBox3_MouseMid.Visible = false;
-                pictureBox4_MouseRight.Visible = false;
-            }
-            if (e.Button == MouseButtons.Right)
-            {
-                pictureBox1_Mouse.Visible = false;
-                pictureBox2_MouseLeft.Visible = false;
-                pictureBox3_MouseMid.Visible = false;
-                pictureBox4_MouseRight.Visible = true;
-            }
-            if (e.Button == MouseButtons.Middle)
-            {
-                pictureBox1_Mouse.Visible = false;
-                pictureBox2_MouseLeft.Visible = false;
-                pictureBox3_MouseMid.Visible = true;
-                pictureBox4_MouseRight.Visible = false;
-            }
-        }
+        
 
         private void button2_MouseDown(object sender, MouseEventArgs e)
         {
@@ -724,11 +676,7 @@ namespace Project1
            
         }
 
-        private void button1_MouseUp(object sender,MouseEventArgs e)
-        {
-            pictureBox1_Mouse.Visible = true;
-        }
-
+        
         private void button2_MouseUp(object sender, MouseEventArgs e)
         {
             pictureBox1_Mouse.Visible = true;
@@ -789,11 +737,6 @@ namespace Project1
             label2.Text = "Y = " + e.Y;
             label1.Location = new Point(e.X - label1.Width, e.Y);
             label2.Location = new Point(e.X, e.Y - label2.Height);
-        }
-
-        private void thoatToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            contextMenuStrip1.Visible = false;
         }
 
         private void formToolStripMenuItem_Click(object sender, EventArgs e)

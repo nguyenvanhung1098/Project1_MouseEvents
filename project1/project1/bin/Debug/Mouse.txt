@@ -222,3 +222,20 @@
 10:39:17  12/11/2018:click chuot trai vao Thong Tin
 10:39:19  12/11/2018:click chuot trai: X = 70 ; Y = 159
 10:39:19  12/11/2018:click chuot trai vao Properties
+5:57:11  25/11/2018:click chuot trai: X = 417 ; Y = 149
+5:57:11  25/11/2018:click chuot phai: X = 413 ; Y = 146
+5:57:11  25/11/2018:click chuot trai: X = 391 ; Y = 151
+5:57:11  25/11/2018:click chuot trai: X = 391 ; Y = 153
+5:57:12  25/11/2018:click chuot phai: X = 497 ; Y = 150
+5:57:12  25/11/2018:click chuot trai: X = 210 ; Y = 33
+5:57:12  25/11/2018:click chuot phai: X = 16 ; Y = 266
+5:57:13  25/11/2018:click chuot trai: X = 169 ; Y = 243
+5:57:13  25/11/2018:click chuot phai: X = 189 ; Y = 279
+5:57:13  25/11/2018:click chuot trai: X = 291 ; Y = 291
+5:57:13  25/11/2018:click chuot phai: X = 591 ; Y = 289
+5:57:14  25/11/2018:click chuot phai: X = 514 ; Y = 119
+5:57:14  25/11/2018:click chuot trai: X = 249 ; Y = 107
+5:57:14  25/11/2018:click chuot phai: X = 212 ; Y = 229
+5:57:14  25/11/2018:click chuot trai: X = 436 ; Y = 155
+5:57:15  25/11/2018:click chuot trai: X = 399 ; Y = 145
+5:57:15  25/11/2018:click chuot phai: X = 501 ; Y = 116
