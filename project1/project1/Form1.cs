@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
+using System.Resources;
 
 namespace Project1
 {
@@ -893,7 +894,7 @@ namespace Project1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Text = Properties.Resources.TenPhienBan + " " + Properties.Resources.PhienBan;
         }
 
         
