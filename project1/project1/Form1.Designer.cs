@@ -35,7 +35,6 @@
             this.pictureBox4_MouseRight = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.họVàTênNguyễnVănHùngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -156,21 +155,9 @@
             this.label2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.label2_MouseMove);
             this.label2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.label2_MouseUp);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Thông Tin";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button1_MouseClick);
-            this.button1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.button1_MouseDown);
-            this.button1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.button1_MouseUp);
-            // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(0, 21);
+            this.button2.Location = new System.Drawing.Point(-1, 25);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 7;
@@ -372,7 +359,6 @@
             this.Controls.Add(this.propertyGrid3);
             this.Controls.Add(this.propertyGrid2);
             this.Controls.Add(this.propertyGrid1);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
@@ -407,7 +393,6 @@
         private System.Windows.Forms.PictureBox pictureBox4_MouseRight;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem họVàTênNguyễnVănHùngToolStripMenuItem;
