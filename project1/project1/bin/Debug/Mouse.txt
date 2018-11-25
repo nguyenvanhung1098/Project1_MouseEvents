@@ -239,3 +239,14 @@
 5:57:14  25/11/2018:click chuot trai: X = 436 ; Y = 155
 5:57:15  25/11/2018:click chuot trai: X = 399 ; Y = 145
 5:57:15  25/11/2018:click chuot phai: X = 501 ; Y = 116
+6:3:26  25/11/2018:click chuot trai: X = 306 ; Y = 166
+6:3:27  25/11/2018:click chuot phai: X = 333 ; Y = 181
+6:3:27  25/11/2018:click chuot phai: X = 393 ; Y = 171
+6:3:27  25/11/2018:click chuot trai: X = 393 ; Y = 171
+6:3:34  25/11/2018:click chuot trai: X = 317 ; Y = 107
+6:3:34  25/11/2018:click chuot phai: X = 309 ; Y = 106
+6:3:34  25/11/2018:click chuot phai: X = 309 ; Y = 105
+6:3:35  25/11/2018:click chuot trai: X = 303 ; Y = 103
+6:3:35  25/11/2018:click chuot trai: X = 303 ; Y = 103
+6:3:35  25/11/2018:click chuot phai: X = 312 ; Y = 101
+6:3:35  25/11/2018:click chuot trai: X = 336 ; Y = 125
