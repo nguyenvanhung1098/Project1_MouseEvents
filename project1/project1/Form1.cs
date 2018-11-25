@@ -738,10 +738,7 @@ namespace Project1
             label2.Location = new Point(e.X, e.Y - label2.Height);
         }
 
-        private void thoatToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            contextMenuStrip1.Visible = false;
-        }
+      
 
         private void formToolStripMenuItem_Click(object sender, EventArgs e)
         {
