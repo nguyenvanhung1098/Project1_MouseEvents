@@ -160,7 +160,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(0, 27);
+            this.button2.Location = new System.Drawing.Point(0, 24);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 7;
@@ -315,7 +315,7 @@
             this.họVàTênToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.nguyễnVănHùngToolStripMenuItem});
             this.họVàTênToolStripMenuItem.Name = "họVàTênToolStripMenuItem";
-            this.họVàTênToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.họVàTênToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.họVàTênToolStripMenuItem.Text = "Họ và tên:";
             // 
             // nguyễnVănHùngToolStripMenuItem
@@ -329,7 +329,7 @@
             this.mssvToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem2});
             this.mssvToolStripMenuItem.Name = "mssvToolStripMenuItem";
-            this.mssvToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.mssvToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.mssvToolStripMenuItem.Text = "Mssv:";
             // 
             // toolStripMenuItem2
@@ -343,7 +343,7 @@
             this.ngàySinhToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem3});
             this.ngàySinhToolStripMenuItem.Name = "ngàySinhToolStripMenuItem";
-            this.ngàySinhToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ngàySinhToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.ngàySinhToolStripMenuItem.Text = "Ngày sinh:";
             // 
             // toolStripMenuItem3
@@ -357,7 +357,7 @@
             this.trườngToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.đạiHọcBáchKhoaHàNộiToolStripMenuItem});
             this.trườngToolStripMenuItem.Name = "trườngToolStripMenuItem";
-            this.trườngToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.trườngToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.trườngToolStripMenuItem.Text = "Trường:";
             // 
             // đạiHọcBáchKhoaHàNộiToolStripMenuItem
