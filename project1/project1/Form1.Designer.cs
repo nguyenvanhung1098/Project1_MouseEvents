@@ -158,7 +158,7 @@
             this.label1ToolStripMenuItem,
             this.label2ToolStripMenuItem});
             this.contextMenuStrip2.Name = "contextMenuStrip2";
-            this.contextMenuStrip2.Size = new System.Drawing.Size(206, 158);
+            this.contextMenuStrip2.Size = new System.Drawing.Size(206, 180);
             // 
             // formToolStripMenuItem
             // 
