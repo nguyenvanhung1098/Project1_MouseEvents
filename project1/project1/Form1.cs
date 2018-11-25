@@ -211,7 +211,8 @@ namespace Project1
             }
         }
 
-       
+        
+
         private void button2_MouseClick(object sender, MouseEventArgs e)
         {
             contextMenuStrip2.Show(this, new Point(0, 0));
@@ -676,7 +677,6 @@ namespace Project1
         }
 
         
-
         private void button2_MouseUp(object sender, MouseEventArgs e)
         {
             pictureBox1_Mouse.Visible = true;
@@ -739,7 +739,6 @@ namespace Project1
             label2.Location = new Point(e.X, e.Y - label2.Height);
         }
 
-        
         private void formToolStripMenuItem_Click(object sender, EventArgs e)
         {
             button3.Visible = true;
