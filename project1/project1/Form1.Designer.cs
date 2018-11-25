@@ -36,13 +36,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.họVàTênNguyễnVănHùngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mSSV20161972ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ngàySinh19101998ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.quêQuánHảiDươngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.thoatToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.formToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.picturebox1MouseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -63,7 +56,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2_MouseLeft)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3_MouseMid)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4_MouseRight)).BeginInit();
-            this.contextMenuStrip1.SuspendLayout();
             this.contextMenuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -166,55 +158,6 @@
             this.button2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button2_MouseClick);
             this.button2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.button2_MouseDown);
             this.button2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.button2_MouseUp);
-            // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.họVàTênNguyễnVănHùngToolStripMenuItem,
-            this.mSSV20161972ToolStripMenuItem,
-            this.ngàySinh19101998ToolStripMenuItem,
-            this.quêQuánHảiDươngToolStripMenuItem,
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem,
-            this.thoatToolStripMenuItem});
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(255, 136);
-            // 
-            // họVàTênNguyễnVănHùngToolStripMenuItem
-            // 
-            this.họVàTênNguyễnVănHùngToolStripMenuItem.Name = "họVàTênNguyễnVănHùngToolStripMenuItem";
-            this.họVàTênNguyễnVănHùngToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.họVàTênNguyễnVănHùngToolStripMenuItem.Text = "Họ Và Tên: Nguyễn Văn Hùng";
-            // 
-            // mSSV20161972ToolStripMenuItem
-            // 
-            this.mSSV20161972ToolStripMenuItem.Name = "mSSV20161972ToolStripMenuItem";
-            this.mSSV20161972ToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.mSSV20161972ToolStripMenuItem.Text = "MSSV:20161972";
-            // 
-            // ngàySinh19101998ToolStripMenuItem
-            // 
-            this.ngàySinh19101998ToolStripMenuItem.Name = "ngàySinh19101998ToolStripMenuItem";
-            this.ngàySinh19101998ToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.ngàySinh19101998ToolStripMenuItem.Text = "Ngày Sinh:19/10/1998";
-            // 
-            // quêQuánHảiDươngToolStripMenuItem
-            // 
-            this.quêQuánHảiDươngToolStripMenuItem.Name = "quêQuánHảiDươngToolStripMenuItem";
-            this.quêQuánHảiDươngToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.quêQuánHảiDươngToolStripMenuItem.Text = "Quê Quán:Hải Dương";
-            // 
-            // trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem
-            // 
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem.Name = "trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem";
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem.Text = "Trường:Đại học Bách Khoa Hà Nội";
-            // 
-            // thoatToolStripMenuItem
-            // 
-            this.thoatToolStripMenuItem.Name = "thoatToolStripMenuItem";
-            this.thoatToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
-            this.thoatToolStripMenuItem.Text = "Thoát";
-            this.thoatToolStripMenuItem.Click += new System.EventHandler(this.thoatToolStripMenuItem_Click);
             // 
             // contextMenuStrip2
             // 
@@ -378,7 +321,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2_MouseLeft)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3_MouseMid)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4_MouseRight)).EndInit();
-            this.contextMenuStrip1.ResumeLayout(false);
             this.contextMenuStrip2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -394,12 +336,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem họVàTênNguyễnVănHùngToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem mSSV20161972ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ngàySinh19101998ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem quêQuánHảiDươngToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem trườngĐạiHọcBáchKhoaHàNộiToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
         private System.Windows.Forms.ToolStripMenuItem formToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem picturebox1MouseToolStripMenuItem;
@@ -408,7 +344,6 @@
         private System.Windows.Forms.ToolStripMenuItem pictureBox4MouseRightToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem label1ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem label2ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem thoatToolStripMenuItem;
         private System.Windows.Forms.PropertyGrid propertyGrid1;
         private System.Windows.Forms.PropertyGrid propertyGrid7;
         private System.Windows.Forms.PropertyGrid propertyGrid6;
